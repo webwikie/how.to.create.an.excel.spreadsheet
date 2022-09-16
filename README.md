@@ -1,6 +1,6 @@
 # How to create an excel spreadsheet
 
-[![how to create an excel spreadsheet](redd.png)](https://github.com/webwikie/how.to.create.an.excel.spreadsheet)
+[![how to create an excel spreadsheet](redd.png)](https://icncomputer.com/how-to-create-an-excel-spreadsheet/)
 
 A spreadsheet is a grid-based file designed to manage or perform any type of calculation on personal or business data. It is accessible in both Office 365 and MS Office. Office 365 is a cloud-based application, whereas MS Office is an on-premises solution. It is the best choice for users because it has 400+ functions and features such as pivot, coloring, graph, chart, and conditional formatting.
 
